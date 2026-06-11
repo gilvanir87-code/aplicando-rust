@@ -1,8 +1,8 @@
 use std::io;
 
 fn main() {
-    let mut numero1 = String::new();
-    let mut numero2 = String::new();
+    let mut num1 = String::new();
+    let mut num2 = String::new();
 
     println!("Digite o primeiro número:");
     io::stdin()
